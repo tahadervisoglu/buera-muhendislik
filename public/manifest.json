@@ -1,0 +1,29 @@
+{
+  "name": "Buera Mühendislik - Profesyonel Danışmanlık Hizmetleri",
+  "short_name": "Buera Mühendislik",
+  "description": "Buera Mühendislik - İşletmenizin en verimli dönemine geçiş için profesyonel danışmanlık. Süreç analizi, pazar araştırması ve sosyal medya yönetimi hizmetleri.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "lang": "tr",
+  "dir": "ltr"
+}

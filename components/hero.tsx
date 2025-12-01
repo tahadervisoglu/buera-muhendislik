@@ -38,7 +38,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/hero-background.jpg"
-          alt="Engineering network background"
+          alt="Buera Mühendislik - Profesyonel danışmanlık ve mühendislik hizmetleri"
           fill
           className="object-cover blur-sm"
           priority

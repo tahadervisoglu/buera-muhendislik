@@ -21,7 +21,7 @@ export default function About() {
           <div className="relative h-80 md:h-96 rounded-lg overflow-hidden border border-[#334155]">
             <Image
               src="/engineering-consulting-business-meeting-with-bluep.jpg"
-              alt="Buera Mühendislik - Engineering and Business Consulting"
+              alt="Buera Mühendislik ekibi - Profesyonel danışmanlık ve mühendislik hizmetleri"
               fill
               className="object-cover"
             />
