@@ -55,11 +55,6 @@ export default function Hero() {
           </span>
         </h1>
 
-        <div className="mt-8 inline-block">
-          <div className="bg-[#f59e0b]/5 border border-[#f59e0b]/20 rounded-lg px-6 py-3">
-            <p className="text-[#f59e0b]/80 font-medium text-base">7999₺ yerine ücretsiz danışmanlık için ulaşın</p>
-          </div>
-        </div>
 
         <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
