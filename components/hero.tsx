@@ -55,7 +55,6 @@ export default function Hero() {
           </span>
         </h1>
 
-
         <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
             href="#iletisim"
